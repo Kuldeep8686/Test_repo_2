@@ -1,6 +1,6 @@
-let num=10;
+let num=8;
 if(num%2==0){
-    console.log("Even");
+    console.log("Even number");
 }else{
-    console.log("Odd");
+    console.log("Odd number");
 }
